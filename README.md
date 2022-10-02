@@ -1,7 +1,5 @@
 # -Sincronizacao_de_Threads
-Sincronizar Produtor e Consumidor usando semáforo Mutex:
-
-- Vale as mesmas regras
+Sincronizar Produtor e Consumidor usando semáforo Mutex. Vale as mesmas regras:
 
 - Produtor produz
 
